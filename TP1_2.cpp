@@ -1,3 +1,6 @@
+//Para evitar la entrada de varios valores se puede realizar las funciones de los incisos a,b,y c con el primer valor que se agrega
+//Luego con la impresion de dos nuevos digitos se podra realizar el resto de las funciones
+
 #include <stdio.h>
 #include <math.h>
 float potencia(float *number);
